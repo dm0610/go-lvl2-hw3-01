@@ -1,4 +1,4 @@
-package go-lvl2-hw3-01
+package  github.com/dm0610/go-lvl2-hw3-01
 
 import (
 	"log"
