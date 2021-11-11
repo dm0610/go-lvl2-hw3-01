@@ -1,4 +1,4 @@
-package hw03Config
+package go-lvl2-hw3-01
 
 import (
 	"log"
